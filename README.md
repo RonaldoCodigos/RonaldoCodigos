@@ -18,10 +18,11 @@
 
 #### 🚀 Meus Principais Projetos
 
+- 🎬 **[Buscador de Filmes com React.js](https://ronaldocodigos.github.io/buscador-de-filmes/)**: Aplicação para busca de filmes construída com React.js, consumindo a API do TMDb e utilizando React Router DOM para navegação.
 - 📄 **[Currículo Online Interativo](https://ronaldocodigos.github.io/curriculo-web/)**: Meu currículo profissional completo, desenvolvido como uma página web responsiva.
-- 🌦️ **[App de Previsão do Tempo](https://RonaldoCodigos.github.io/app-clima/)**: Aplicação que consome a API da OpenWeatherMap...
-- 📬 **[Buscador de CEP](https://RonaldoCodigos.github.io/buscador-cep/)**: Ferramenta que utiliza a API ViaCEP...
-- 🔗 **[Página de Links Pessoais](https://ronaldocodigos.github.io/)**: Meu primeiro projeto, uma página de links...
+- 🌦️ **[App de Previsão do Tempo](https://RonaldoCodigos.github.io/app-clima/)**: Aplicação que consome a API da OpenWeatherMap para exibir o clima de uma cidade em tempo real.
+- 📬 **[Buscador de CEP](https://RonaldoCodigos.github.io/buscador-cep/)**: Ferramenta que utiliza a API ViaCEP para encontrar um endereço a partir do CEP informado.
+- 🔗 **[Página de Links Pessoais](https://ronaldocodigos.github.io/)**: Meu primeiro projeto, uma página de links centralizada com alternador de tema claro/escuro.
 
 ---
 
