@@ -18,6 +18,7 @@
 
 #### 🚀 Meus Principais Projetos
 
+- 📊 **[Dashboard Financeiro com React e MUI](https://ronaldocodigos.github.io/dashboard-financeiro/)**: Aplicação para controle de finanças pessoais...
 - 🎬 **[Buscador de Filmes com React.js](https://ronaldocodigos.github.io/buscador-de-filmes/)**: Aplicação para busca de filmes construída com React.js, consumindo a API do TMDb e utilizando React Router DOM para navegação.
 - 📄 **[Currículo Online Interativo](https://ronaldocodigos.github.io/curriculo-web/)**: Meu currículo profissional completo, desenvolvido como uma página web responsiva.
 - 🌦️ **[App de Previsão do Tempo](https://RonaldoCodigos.github.io/app-clima/)**: Aplicação que consome a API da OpenWeatherMap para exibir o clima de uma cidade em tempo real.
