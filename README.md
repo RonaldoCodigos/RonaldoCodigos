@@ -18,7 +18,8 @@
 
 #### 🚀 Meus Principais Projetos
 
-- 📊 **[Dashboard Financeiro com React e MUI](https://ronaldocodigos.github.io/dashboard-financeiro/)**: Aplicação para controle de finanças pessoais...
+- 📊 **Dashboard Financeiro Full-Stack (MERN):** Aplicação MERN (MongoDB, Express, React, Node) completa. O front-end (React) consome uma API RESTful (Node.js) para criar, ler e deletar transações salvas permanentemente em um banco de dados MongoDB Atlas.
+[Aplicação ao Vivo](https://ronaldo-dashboard.netlify.app) | [Código (Front-End)](https://github.com/RonaldoCodigos/dashboard-frontend) | [Código (Back-End API)](https://github.com/RonaldoCodigos/dashboard-backend)
 - 🎬 **[Buscador de Filmes com React.js](https://ronaldocodigos.github.io/buscador-de-filmes/)**: Aplicação para busca de filmes construída com React.js, consumindo a API do TMDb e utilizando React Router DOM para navegação.
 - 📄 **[Currículo Online Interativo](https://ronaldocodigos.github.io/curriculo-web/)**: Meu currículo profissional completo, desenvolvido como uma página web responsiva.
 - 🌦️ **[App de Previsão do Tempo](https://RonaldoCodigos.github.io/app-clima/)**: Aplicação que consome a API da OpenWeatherMap para exibir o clima de uma cidade em tempo real.
